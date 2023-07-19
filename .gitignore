@@ -1,0 +1,4 @@
+virtual/
+.vscode/
+ourvenv/
+.DS_Store/
